@@ -88,5 +88,4 @@ For example [serverless-webpack](https://github.com/elastic-coders/serverless-we
 ## Todo
 
 * NPM publish
-* Handle single function deploys
 * Play nicely with other packaging plugins (e.g. serverless-webpack)
