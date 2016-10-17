@@ -1,0 +1,29 @@
+{
+  "name": "serverless-node-config-plugin",
+  "version": "1.0.0",
+  "description": "Serverless plugin to include a compiled node-config configuration in the deployment package",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "keywords": [
+    "serverless",
+    "1.0",
+    "plugin",
+    "config",
+    "node-config"
+  ],
+  "author": "Peter Hodgkinson <pdhodgkinson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "fs-extra": "^0.30.0"
+  },
+  "peerDependencies": {
+    "node-config": "^0.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.8.0",
+    "eslint-plugin-promise": "^3.0.0"
+  }
+}
