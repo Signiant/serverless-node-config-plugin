@@ -10,7 +10,7 @@ configuration and include it in a deployment package.
 *Until published to NPM*
 Install plugin
 ```
-npm install Signiant/serverless-node-config-plugin
+npm install --save-dev Signiant/serverless-node-config-plugin
 ```
 
 Add the plugin to your `serverless.yml` file:
